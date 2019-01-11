@@ -1,10 +1,6 @@
 # ICCS342: Data Warehousing and Data Mining
 
-**Instructor:** Sunsern Cheamanunkul (sunsern.che@mahidol.edu)
-
-**Lectures**: Tu/Th 2-4pm
-
-**Office Hours:** Mo/Wed 10am-12pm, or by appointment 
+**Instructor:** Sunsern Chea.
 
 **Course Description:**
 
